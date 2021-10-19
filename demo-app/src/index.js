@@ -69,7 +69,6 @@ class Board extends React.Component {
       </div>
     );
   }
-  //sss
 }
 
 class Game extends React.Component {
